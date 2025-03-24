@@ -22,7 +22,9 @@ This project involves developing SPARQL queries from natural language using fede
    git clone https://github.com/yourusername/portfolio.git
 
 2. Navigate to the project directory:
+   ```bash
    cd portfolio/sparql-query-generation
    
-3. Install the required packages:
+4. Install the required packages:
+   ```bash
    pip install -r requirements.txt
